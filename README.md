@@ -1,7 +1,1 @@
-# hello-world
-This repository is for practising the GitHub Flow.
-blablablahayydydyydyd
-htht
-comparison
-
-
+this is a readme file
